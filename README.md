@@ -1,4 +1,4 @@
-# BI-Slolution_Fusion_Zwei_Supermaerkte
+
 
 Data Engineering  -Erstellen einer ETL-Pipeline mit SSIS
 ------------------------------------------------------
