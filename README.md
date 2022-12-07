@@ -25,15 +25,17 @@ Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 
 CleansingArea 
 
-![Screenshot (132)](https://user-images.githubusercontent.com/116841480/206172566-bc658111-bdad-4c5c-8ef5-30be7426f2e9.png)
 
 
 
-Data vault Modell
 
-![Screenshot (133)](https://user-images.githubusercontent.com/116841480/206172701-e3d8d6da-6dbb-41ad-9195-83129f5d3e7b.png)
+Data Vault Modell
+
+
 
 
 Voraussetzung
          Visual Studio 2019               
          SQL Server
+
+
