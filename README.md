@@ -18,12 +18,17 @@ Linke: represäntiert Beziehung zwischen Hubs
 Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 
  Architekture von Data Warehouse
+ 
 ![Unbenannt](https://user-images.githubusercontent.com/116841480/206168137-11f11bc8-262b-4a06-9bdb-c5ce2be56724.PNG)
 
 
 CleansingArea 
+
 ![2](https://user-images.githubusercontent.com/116841480/206171360-dfeaa43a-bdf0-4ddb-a929-a89bcaa1bde6.PNG)
 
+Data vault Modell
+
+![3](https://user-images.githubusercontent.com/116841480/206171530-8807cad6-9bb3-4d41-bd05-94217a33430d.PNG)
 
 Voraussetzung
          Visual Studio 2019               
