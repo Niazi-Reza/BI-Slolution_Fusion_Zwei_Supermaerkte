@@ -17,11 +17,12 @@ Hub:  repräsentiert Kerngeschäftskonzepte
 Linke: represäntiert Beziehung zwischen Hubs
 Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 
+![Unbenannt](https://user-images.githubusercontent.com/116841480/206167556-9e05c176-53bc-419e-93f6-6eb9ffc7464f.PNG)
 
 
 
 
-Erste Schritte
+
 Voraussetzung
          Visual Studio 2019               
          SQL Server
