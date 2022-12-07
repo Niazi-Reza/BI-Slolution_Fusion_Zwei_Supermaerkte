@@ -12,10 +12,9 @@ Die angewendete Architekture für Data Warehouse besteht auf vier Phasen:
 1. StageArea: in dieser Phase sind alle Daten aus den Quellen im System hochgeladen.
 2. CleansingArea: in diser Phase wird die Daten bearbeitet. Die Fehler, doppelte Werte .... werden bearbeitet.
 3. Core: hier ist der Kern das Data Warehouse, wo die Daten in einem integrierten Format gespeichert sind. In diesem Projekt ist Data Vault 2.0 als Datamodell verwendet. Data Vault besteht aus drei Komponenten: Hubs, Links und Satellites.
-
-Hub:  repräsentiert Kerngeschäftskonzepte
-Linke: represäntiert Beziehung zwischen Hubs
-Satellite: in Satellite sind Informationen über Hubs und Links gespeichert
+   Hub:  repräsentiert Kerngeschäftskonzepte
+   Linke: represäntiert Beziehung zwischen Hubs
+   Satellite: in Satellite sind Informationen über Hubs und Links gespeichert
 
 4. Data Marts: hier wird ein Star Schema aufgebaut. Diese Star Schema wird zur Erstellung von Berichtn und Dashboards für den Endnutzer verwendet.
 
@@ -43,6 +42,8 @@ Voraussetzung
 ---------------------------------------------------------------------
          Visual Studio 2019               
          SQL Server
+         Power BI
+         Python
         
 Vorgehensweise
 ----------------------------------------------------------------------
