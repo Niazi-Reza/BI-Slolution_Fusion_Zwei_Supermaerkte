@@ -29,7 +29,7 @@ CleansingArea
 
 Data vault Modell
 
-
+![Screenshot (133)](https://user-images.githubusercontent.com/116841480/206172701-e3d8d6da-6dbb-41ad-9195-83129f5d3e7b.png)
 
 
 Voraussetzung
