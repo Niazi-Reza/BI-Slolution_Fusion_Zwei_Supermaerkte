@@ -50,6 +50,8 @@ In Core ist Dat Vault aufgebaut und alle Geschäftsrelevante Daten sind da gespr
 
 
 Beispiel für Dashboards
+-------------------------------------------------------------------------
+![Screenshot (136)](https://user-images.githubusercontent.com/116841480/206181131-750c384c-3a8f-4983-bb07-29d2466c08c5.png)
 
 
 
