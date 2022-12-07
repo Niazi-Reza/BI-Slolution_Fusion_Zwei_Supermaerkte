@@ -15,7 +15,9 @@ Die angewendete Architektur für Data Warehouse besteht auf vier Phasen:
 3. Core: hier ist der Kern das Data Warehouse, wo die Daten in einem integrierten Format gespeichert sind. In diesem Projekt ist Data Vault 2.0 als Datamodell verwendet. Data Vault besteht aus drei Komponenten: Hubs, Links und Satellites.
 
    Hub:  repräsentiert Kerngeschäftskonzepte
+   
    Linke: repräsentiert Beziehung zwischen Hubs
+   
    Satellite: in Satellite sind Informationen über Hubs und Links gespeichert
 
 
