@@ -26,7 +26,7 @@ Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 CleansingArea 
 
 
-
+![Screenshot (134)](https://user-images.githubusercontent.com/116841480/206174638-4aff04ab-f6ec-4c94-ae2e-a0df015aaebc.png)
 
 
 Data Vault Modell
