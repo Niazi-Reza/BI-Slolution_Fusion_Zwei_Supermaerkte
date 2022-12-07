@@ -22,9 +22,11 @@ Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 ![Unbenannt](https://user-images.githubusercontent.com/116841480/206168137-11f11bc8-262b-4a06-9bdb-c5ce2be56724.PNG)
 
 
+
 CleansingArea 
 
 ![Screenshot (132)](https://user-images.githubusercontent.com/116841480/206172566-bc658111-bdad-4c5c-8ef5-30be7426f2e9.png)
+
 
 
 Data vault Modell
