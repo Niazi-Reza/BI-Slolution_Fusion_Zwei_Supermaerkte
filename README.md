@@ -17,6 +17,7 @@ Hub:  repräsentiert Kerngeschäftskonzepte
 Linke: represäntiert Beziehung zwischen Hubs
 Satellite: in Satellite sind Informations über Hubs und Linkes gespeichert
 
+![Unbenannt](https://user-images.githubusercontent.com/116841480/206166983-7675e891-9450-4207-bc8a-a6fbc0a568ee.PNG)
 
 
 
